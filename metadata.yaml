@@ -2,5 +2,5 @@ homepage: "https://www.upstreamsystems.com/"
 documentation: ""
 versions:
     # Latest version
-    - sha: ADD_SHA_HERE
+    - sha: 43d4466d3552f7b57eee3c1cd9bfb74b34f0d029
     changeNotes: Initial release
